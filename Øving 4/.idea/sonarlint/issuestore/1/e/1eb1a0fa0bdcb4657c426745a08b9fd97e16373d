@@ -1,0 +1,25 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ñºõ8…ì©®Ë.
+u
+java:S1104"SMake crashes a static final constant or non-public and provide accessors if needed.(¹ÛËÓıÿÿÿÿ8¯¸ÒªË.
+{
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÁ‚üÿÿÿÿ8ˆ–„Ì.
+U
+java:S49734"9Use the "equals" method if value comparison was intended.(ëßÜ8ˆ–„Ì.
+X	java:S125w"<This block of commented-out lines of code should be removed.(Õğ³œ8ˆ–„Ì.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(Óİ»Õúÿÿÿÿ8ìµˆÌ.
+]	java:S125n"<This block of commented-out lines of code should be removed.(‡¥›Ûøÿÿÿÿ8ˆ–„Ì.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÄÇÿÄ8ˆ–„Ì.
+]	java:S125y"<This block of commented-out lines of code should be removed.(´ß‰ıÿÿÿÿ8ˆ–„Ì.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(¯îÎ¶8ìµˆÌ.
+Z
+java:S1854O"8Remove this useless assignment to local variable "head".(í® æùÿÿÿÿ8ˆ–„Ì.
+I
+java:S1481V",Remove this unused "hashMap" local variable.(±ŠÙ8ˆ–„Ì.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(áÔğ•ıÿÿÿÿ8ˆ–„Ì.
+[
+java:S1854a"9Remove this useless assignment to local variable "test1".(½†ÏÌùÿÿÿÿ8ˆ–„Ì.
+X
+java:S1854V";Remove this useless assignment to local variable "hashMap".(±ŠÙ8ˆ–„Ì.
+L
+java:S1481["*Remove this unused "test1" local variable.(Àîÿ­ÿÿÿÿÿ8ˆ–„Ì.

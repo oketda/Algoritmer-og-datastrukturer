@@ -1,0 +1,18 @@
+
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¥Öýäþÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ç¶èì
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÜÇŒÓ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û£ùÉ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¦Œ–´ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(­Ý©©ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¨ÅÒÿÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(ÂÍúv
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×æãßÿÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ú¿Ò·
+]
+java:S1192"GDefine a constant instead of duplicating this literal "2^10: " 3 times.(Û£ùÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œùûÂ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "3^14: " 3 times.(ï¨ÅÒÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÖÔÙøþÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ÿâ­íùÿÿÿÿ

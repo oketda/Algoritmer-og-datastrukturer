@@ -1,0 +1,16 @@
+
+
+java:S4165_"_Remove this useless assignment; "h" already holds the assigned value along all execution paths.(¶†‡éıÿÿÿÿ8ÒÍóÖÔ.
+p
+java:S2095T"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ûû¹ˆúÿÿÿÿ8ÒÍóÖÔ.
+o
+java:S2095I"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(±‡ÀÒÿÿÿÿÿ8ÒÍóÖÔ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„’Íûÿÿÿÿ8İÄÆºÔ.
+i
+java:S2095 "MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(êÈå'8ÒÍóÖÔ.
+j
+java:S2095"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(ãéì8ÒÍóÖÔ.
+p
+java:S2095!"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ûû¹ˆúÿÿÿÿ8ÒÍóÖÔ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ßÚºûÿÿÿÿ8İÄÆºÔ.

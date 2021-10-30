@@ -1,0 +1,14 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(åäØ½8ÇÈæİÒ.
+v
+java:S3012;"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(²ªĞÇ8ÇÈæİÒ.
+t	java:S127a"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦‘†8¥±üàÒ.
+v
+java:S3012P"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(²ªĞÇ8ÇÈæİÒ.
+y	java:S127g"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶óŸ­ûÿÿÿÿ8¥±üàÒ.
+v
+java:S3012J"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(²ªĞÇ8ÇÈæİÒ.
+m	java:S116"QRename this field "LENGDE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÿ¯8ì«©ÛÒ.
+>
+java:S1170"!Make this final field static too.(…ÿ¯8ì«©ÛÒ.

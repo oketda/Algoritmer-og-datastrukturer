@@ -1,0 +1,24 @@
+
+c
+java:S3027-"FPut single-quotes around ',' to use the faster "indexOf(char)" method.(ÆúĞî8ôÚ•İÉ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(Ò¶ø‚ÿÿÿÿÿ8ã®şÜÉ.
+{
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÁ‚üÿÿÿÿ8«çïÜÉ.
+n
+java:S2095S"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(…œ…úÿÿÿÿ8«çïÜÉ.
+u
+java:S1104
+"SMake crashes a static final constant or non-public and provide accessors if needed.(¹ÛËÓıÿÿÿÿ8×ŞŠªË.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(¾Ã…ñ8ØüªË.
+M
+java:S1905`"+Remove this unnecessary cast to "String[]".(£åúÕûÿÿÿÿ8«çïÜÉ.
+h
+java:S3027k"FPut single-quotes around ',' to use the faster "indexOf(char)" method.(´Û‰¶ûÿÿÿÿ8«¸Ã±Ë.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(ÇØÕåúÿÿÿÿ8½µ«ªË.
+U
+java:S1197h"8Move the array designator from the variable to the type.(“œÓÊ8«çïÜÉ.
+~
+java:S1488`"\Immediately return this expression instead of assigning it to the temporary variable "navn".(£åúÕûÿÿÿÿ8«çïÜÉ.
+|
+java:S1488 "ZImmediately return this expression instead of assigning it to the temporary variable "h1".(µ™ÓÅüÿÿÿÿ8Ûô³±Ë.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(Óİ»Õúÿÿÿÿ8ÕÊšªË.

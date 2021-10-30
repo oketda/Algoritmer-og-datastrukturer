@@ -1,0 +1,50 @@
+
+e
+java:S2095w"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(™™‡ó8÷³Ø¼Ú.
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÜÿğúÿÿÿÿ8áã¼Ù.
+o
+java:S2095û"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(á·’ÿúÿÿÿÿ8÷³Ø¼Ú.
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÜÿğúÿÿÿÿ8†–¿¼Ù.
+n	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞÜ¨8÷³Ø¼Ú.
+t
+java:S1192w"WDefine a constant instead of duplicating this literal "Resources/resultat.txt" 3 times.(™™‡ó8÷³Ø¼Ú.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÜÿğúÿÿÿÿ8†–¿¼Ù.
+f
+java:S2095¶"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(™™‡ó8÷³Ø¼Ú.
+k	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÜî©8÷³Ø¼Ú.
+F
+java:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤¾ÂèÙ.
+Y	java:S125•"<This block of commented-out lines of code should be removed.(ÄÂÃ8çåŒáÛ.
+>
+java:S16439"Use a StringBuilder instead.(ˆÉÿÂøÿÿÿÿ8¼Ñë¼Ù.
+F
+java:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷³Ø¼Ú.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(¦ÀÂ–ıÿÿÿÿ8Ø‘ÍĞÙ.
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(Û‰Ğ¢ıÿÿÿÿ8÷³Ø¼Ú.
+F
+java:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷³Ø¼Ú.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(¡ÛÄ…úÿÿÿÿ8¬Ö½¿Ù.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(ºï‹‘ûÿÿÿÿ8µŠîàÛ.
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(û‘Ë8÷³Ø¼Ú.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷³Ø¼Ú.
+c
+java:S2147"ECombine this catch with the one at line 255, which has the same body.(ï­£Ä8÷³Ø¼Ú.
+^	java:S125"<This block of commented-out lines of code should be removed.(Úş¨´ûÿÿÿÿ8‹ÿÑ”Û.
+f
+java:S2095Í"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(™™‡ó8÷³Ø¼Ú.
+r	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çØÄ™üÿÿÿÿ8Ø‘ÍĞÙ.
+p	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø»ù×ûÿÿÿÿ8÷³Ø¼Ú.
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(¦ÀÂ–ıÿÿÿÿ8÷³Ø¼Ú.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(Ò£Ñİ8ÚÅùàÛ.
+o
+java:S2095ü"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÛŞ£Ñşÿÿÿÿ8÷³Ø¼Ú.
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(„ĞÆï8Ø‘ÍĞÙ.
+s	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¼á’ÿÿÿÿÿ8÷³Ø¼Ú.
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(å¬¿8÷³Ø¼Ú.
+F
+java:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷³Ø¼Ú.
+p	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¼á’ÿÿÿÿÿ8÷³Ø¼Ú.
+Y	java:S125’"<This block of commented-out lines of code should be removed.(œáÅÎ8ı¬ÿàÛ.
+\
+java:S2259†"?A "NullPointerException" could be thrown; "g" is nullable here.(áód8ê¬¶áÛ.

@@ -1,0 +1,12 @@
+
+‹
+java:S1319"nThe type of the "out" object should be an interface such as "List" rather than the implementation "ArrayList".(Ë‰Ê¤8‰ÂÃİÒ.
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8‰ÂÃİÒ.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ ñ¥ÿÿÿÿÿ8îÆİİÒ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¡ ñ¥ÿÿÿÿÿ8‰ÂÃİÒ.
+E
+java:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8³âÄİÒ.
+E
+java:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8³âÄİÒ.

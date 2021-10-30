@@ -1,0 +1,51 @@
+
+K
+java:S1125g")Remove the literal "false" boolean value.(·ãÉùÿÿÿÿ8‹’¦£Í.
+^	java:S125”"<This block of commented-out lines of code should be removed.(ë¾å‡üÿÿÿÿ8ªİ£Í.
+Y	java:S125€"<This block of commented-out lines of code should be removed.(Ø²ÍÀ8ªİ£Í.
+’
+java:S1319y"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÚñÚƒşÿÿÿÿ8ªİ£Í.
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ªİ£Í.
+Z
+java:S1197)"8Move the array designator from the variable to the type.(ÅØÒˆüÿÿÿÿ8…¥Ì¡Í.
+o
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(°™Ÿ8ªİ£Í.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–®šÿÿÿÿÿ8’º½¡Í.
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¬ìùÿÿÿÿ8ÑüÊ¡Í.
+Z
+java:S1197"8Move the array designator from the variable to the type.(–®šÿÿÿÿÿ8’º½¡Í.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–®šÿÿÿÿÿ8’º½¡Í.
+K
+java:S1125Z")Remove the literal "false" boolean value.(«ÄØÉùÿÿÿÿ8îŞâ¢Í.
+o	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÛŠØıÿÿÿÿ8¤ÁÙ£Í.
+Z
+java:S1197U"8Move the array designator from the variable to the type.(ÅØÒˆüÿÿÿÿ8îŞâ¢Í.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‹’¦£Í.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…‹Ø8©²Ş¢Í.
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(‰ªíÑ8ªİ£Í.
+r	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅØÒˆüÿÿÿÿ8…¥Ì¡Í.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Ñ®Ø¡Í.
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„£™Ê8¦ÅÕ¢Í.
+i
+java:S2095z"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(öÂÙò8ªİ£Í.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÍÔ÷Ùûÿÿÿÿ8ªæ°¡Í.
+U
+java:S1197F"8Move the array designator from the variable to the type.(„£™Ê8ŒÕ¢Í.
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÛŠØıÿÿÿÿ8¤ÁÙ£Í.
+Z
+java:S1197."8Move the array designator from the variable to the type.(ØÛŠØıÿÿÿÿ8¤ÁÙ£Í.
+K
+java:S1125m")Remove the literal "false" boolean value.(·ãÉùÿÿÿÿ8ÒÙß£Í.
+>
+java:S2129P"!Remove this "Integer" constructor(ô¦˜8¤²æ¢Í.
+K
+java:S1125d")Remove the literal "false" boolean value.(°š”½øÿÿÿÿ8îŞâ¢Í.
+r	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅØÒˆüÿÿÿÿ8îŞâ¢Í.
+r
+java:S1149T"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ8îŞâ¢Í.
+L
+java:S1874P"/Remove this use of "Integer"; it is deprecated.(ô¦˜8¤²æ¢Í.
+m
+java:S1149F"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„£™Ê8ŒÕ¢Í.

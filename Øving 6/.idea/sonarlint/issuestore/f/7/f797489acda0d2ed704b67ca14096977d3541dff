@@ -1,0 +1,21 @@
+
+J
+java:S1481O"(Remove this unused "run" local variable.(©ŒÙâÿÿÿÿÿ8»Ç‘ÄĞ.
+h	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‹çÁ8²áª»Ğ.
+l
+java:S1192M"ODefine a constant instead of duplicating this literal "%-7s%-7s%-7s%n" 3 times.(©8»Ç‘ÄĞ.
+h	java:S116"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‹çÁ8²áª»Ğ.
+<
+java:S1659"Declare "K" on a separate line.(´‹çÁ8²áª»Ğ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„°É€ıÿÿÿÿ8Š„¿ÀĞ.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(½ñ”8û· ÄĞ.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(©8»Ç‘ÄĞ.
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø»äøÿÿÿÿ8Š„¿ÀĞ.
+v
+java:S3012-"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ñåíş8ÿ¦êÃĞ.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(÷«¤ô8û· ÄĞ.
+X	java:S125E"<This block of commented-out lines of code should be removed.(Š¯Ù²8õöÄĞ.
+=
+java:S16598" Declare "md" on a separate line.(•»½Ø8â¡üÀĞ.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8î—ÄÄĞ.

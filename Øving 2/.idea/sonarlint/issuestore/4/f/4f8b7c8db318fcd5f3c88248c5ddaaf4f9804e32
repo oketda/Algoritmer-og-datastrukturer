@@ -1,0 +1,34 @@
+
+Y	java:S125„"<This block of commented-out lines of code should be removed.(ãøëĞ8ÙÛ€õÄ.
+Z
+java:S1197f"8Move the array designator from the variable to the type.(²¾«ıÿÿÿÿ8 ¶ñÄ.
+R
+java:S2209"5Change this instance-reference to a static reference.(¶Öî8ÎŸöñÄ.
+Z
+java:S1197:"8Move the array designator from the variable to the type.(Š²âçÿÿÿÿÿ8»ÊÄ.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(‰×æ®8§»áÊÄ.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(Ã¦øŠ8®àËÊÄ.
+Z
+java:S1197%"8Move the array designator from the variable to the type.(ÙÇ­Ùúÿÿÿÿ8ë¯¿ÉÄ.
+l	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÂç;8„®ÈÊÄ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(õª£×ÿÿÿÿÿ8ë¯¿ÉÄ.
+T
+java:S1854_"7Remove this useless assignment to local variable "obj".(İ«µô8ÙÛ€õÄ.
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(ÇÑ×8¹şìÉÄ.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ÃÅôÇ8àÎÊÊÄ.
+i	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à­˜P8©æÚÊÄ.
+T
+java:S1197T"8Move the array designator from the variable to the type.(à­˜P8©æÚÊÄ.
+Z
+java:S1197e"8Move the array designator from the variable to the type.(¶……Ãùÿÿÿÿ8 ¶ñÄ.
+E
+java:S1481_"(Remove this unused "obj" local variable.(İ«µô8ÙÛ€õÄ.
+Z
+java:S1197g"8Move the array designator from the variable to the type.(›¸óşÿÿÿÿ8¡éôËÄ.
+m	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï´é°8•‚²ÍÄ.
+T	java:S106["9Replace this use of System.out or System.err by a logger.(æŸÇ8§—çÊÄ.
+Z
+java:S11974"8Move the array designator from the variable to the type.(–…’üÿÿÿÿ8‰ìÉÄ.
+^	java:S125Š"<This block of commented-out lines of code should be removed.(÷Ó¯§øÿÿÿÿ8ÙÛ€õÄ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ùÒÚùÿÿÿÿ8¢ñÄ.

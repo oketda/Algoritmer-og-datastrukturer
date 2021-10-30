@@ -1,0 +1,22 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¦ªşÿÿÿÿ8§±òêÆ.
+@
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ª¼’ïÆ.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‡÷Éıÿÿÿÿ8§±òêÆ.
+o
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ï™¯ş8¥§²ïÆ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(§–åûÿÿÿÿ8ª¼’ïÆ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ª¼’ïÆ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(â¢ŞËûÿÿÿÿ8Ó´ ôÆ.
+u
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ü¦Ø—ùÿÿÿÿ8Ó´ ôÆ.
+o
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¬—«œ8ª¼’ïÆ.
+[	java:S106ı"9Replace this use of System.out or System.err by a logger.(ûÛ‰õøÿÿÿÿ8Ó´ ôÆ.
+Z
+java:S1854'"8Remove this useless assignment to local variable "last".(«¹¬¢úÿÿÿÿ8ª¼’ïÆ.
+Y	java:S125ğ"<This block of commented-out lines of code should be removed.(Ë¬ñŒ8Ó´ ôÆ.
+K
+java:S1481$")Remove this unused "last" local variable.(¥•·üÿÿÿÿ8ª¼’ïÆ.
+J
+java:S1481/"(Remove this unused "run" local variable.(©ŒÙâÿÿÿÿÿ8ÕÕåòÆ.
